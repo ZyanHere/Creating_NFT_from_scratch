@@ -1,13 +1,13 @@
-# Sample Hardhat Project
+#Introduction:
+This project showcases the creation of non-fungible tokens (NFTs) from scratch using the Ethereum blockchain and the ERC721 standard. It leverages IPFS for storing NFT-related images and relies on Web3.js for Ethereum network interaction. Several tools and services like OpenZeppelin, Hardhat, Polygon Mumbai testnet, Metamask, Alchemy, and dotenv are employed to streamline development and deployment.
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+Key Components:
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+  ERC721 Token: Used for representing unique digital assets (NFTs).
+  IPFS: Stores NFT images in a decentralized and censorship-resistant manner.
+  Web3.js: Interacts with the blockchain.
+  Hardhat: Compiles and deploys the smart contract.
+  Polygon Mumbai Testnet: Test environment for smart contracts.
+  Metamask: Ethereum wallet and browser extension for user interaction.
+  Alchemy: Provides API access to the Ethereum network.
+  dotenv: metamask and alchemy are connected via dotenv
