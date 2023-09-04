@@ -1,5 +1,6 @@
 #Introduction:
-This project showcases the creation of non-fungible tokens (NFTs) from scratch using the Ethereum blockchain and the ERC721 standard. It leverages IPFS for storing NFT-related images and relies on Web3.js for Ethereum network interaction. Several tools and services like OpenZeppelin, Hardhat, Polygon Mumbai testnet, Metamask, Alchemy, and dotenv are employed to streamline development and deployment.
+
+  This project showcases the creation of non-fungible tokens (NFTs) from scratch using the Ethereum blockchain and the ERC721 standard. It leverages IPFS for storing NFT-related images and relies on Web3.js for Ethereum network interaction. Several tools and services like OpenZeppelin, Hardhat, Polygon Mumbai testnet, Metamask, Alchemy, and dotenv are employed to streamline development and deployment.
 
 Key Components:
   
